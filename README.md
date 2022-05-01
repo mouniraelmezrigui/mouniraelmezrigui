@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mounira Saleh</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Mounira Emlezrigui</h1>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
 - 🔭 I’m currently working on **Frontend Projects**
 
 - 👨‍💻 All of my projects are available at [test](test)
 
-- 💬 Ask me about **HTML, CSS, Js, React**
+- 💬 Ask me about **HTML, CSS, Js, React, Sass, Php, node**
 
 - 📫 How to reach me **mounira-86@hotmail.com**
 
