@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [test](test)
 
-- 💬 Ask me about **HTML, CSS, Js, React, Sass, Php, node**
+- 💬 Ask me about **HTML, CSS, Js, React,Angular, Sass, Php, symfony, laravel**
 
 - 📫 How to reach me **mounira-86@hotmail.com**
 
